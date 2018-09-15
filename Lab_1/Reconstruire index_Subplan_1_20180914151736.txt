@@ -1,0 +1,69 @@
+Microsoft(R) Server Maintenance Utility (Unicode) Version 14.0.2002
+Report was generated on "FILIP-PC".
+Maintenance Plan: Reconstruire index
+Duration: 00:00:02
+Status: Succeeded.
+Details:
+Rebuild Index (FILIP-PC)
+Rebuild index on Local server connection
+Databases: Data_base_lab_2_2
+Object: Tables and views
+10% of free space
+Task start: 2018-09-14T15:17:34.
+Task end: 2018-09-14T15:17:34.
+Success
+Command:
+GO
+
+
+Check Database Integrity (FILIP-PC)
+Check Database integrity on Local server connection
+Databases: Data_base_lab_2_2
+Include indexes
+Physical only
+Task start: 2018-09-14T15:17:34.
+Task end: 2018-09-14T15:17:34.
+Success
+Command:USE [Data_base_lab_2_2]
+GO
+DBCC CHECKDB(N''Data_base_lab_2_2'')  WITH  PHYSICAL_ONLY
+
+GO
+
+
+Reorganize Index (FILIP-PC)
+Reorganize index on Local server connection
+Databases: Data_base_lab_2_2
+Object: Tables and views
+Compact large objects
+Task start: 2018-09-14T15:17:34.
+Task end: 2018-09-14T15:17:34.
+Success
+Command:
+GO
+
+
+Update Statistics (FILIP-PC)
+Update Statistics on Local server connection
+Databases: Data_base_lab_2_2
+Object: Tables and views
+All existing statistics
+Task start: 2018-09-14T15:17:35.
+Task end: 2018-09-14T15:17:35.
+Success
+Command:
+GO
+
+
+Clean Up History (FILIP-PC)
+Cleanup history on Local server connection
+History type: Backup
+Age: Older than 6 Weeks
+Task start: 2018-09-14T15:17:36.
+Task end: 2018-09-14T15:17:36.
+Success
+Command:declare @dt datetime select @dt = cast(N''2018-08-03T15:17:36'' as datetime) exec msdb.dbo.sp_delete_backuphistory @dt
+
+GO
+
+
