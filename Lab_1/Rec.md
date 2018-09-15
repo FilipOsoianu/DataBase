@@ -5,7 +5,7 @@ primar a bazei de 16MB cu limita de crestere de 128 MB si a log-ului de 64 MB cu
 crestere de 1024 MB. Pentru fisierele secundare sa se defineasca un Filegroup nou implicit,
 setand cresterea fisierelor secundare de 64 MB cu limita de 1024 MB."
 
-![](https://github.com/FilipOsoianu/DataBase/blob/master/Lab_1/1.PNG)
+![](https://github.com/FilipOsoianu/DataBase/blob/master/Lab_1/Photo/1.PNG)
 
 
 **Task 2**
