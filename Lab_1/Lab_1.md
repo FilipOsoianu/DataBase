@@ -15,7 +15,7 @@ fisierului log in mediul sistemului de operare trebuie sa se deosebeasca de ele 
 schema fizica. Este important ca baza de date creata sa fie compatibila cu sistemul MS SQL
 Server 2017 si ea sa fie accesibila numai unui singur utizator lntr-un moment de timp.
 
-![](https://github.com/FilipOsoianu/DataBase/blob/master/Lab_1//Photo2.PNG)
+![](https://github.com/FilipOsoianu/DataBase/blob/master/Lab_1/Photo/2.PNG)
 
 
 **Task 3**
@@ -45,7 +45,7 @@ planului trebuie sa fie adaugat in acest fisier. Procesul de mentenanta - sa fie
 extended. lnitializati executarea planului. Dupa executare, verificati rezultatele in fisierul log
 generat.
 
-![](https://github.com/FilipOsoianu/DataBase/blob/master/Lab_1//Photo4.PNG)
+![](https://github.com/FilipOsoianu/DataBase/blob/master/Lab_1/Photo/4.PNG)
 
 
 **Report 1**
