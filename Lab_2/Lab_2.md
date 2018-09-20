@@ -34,6 +34,7 @@ capitolului.
 ![8](https://user-images.githubusercontent.com/32772799/45834511-fc4f1380-bd0f-11e8-8e42-1b0b274f448c.PNG)
 
 ## Task 4
+Inserati in tabelele respective ale bazei de date universitatea urmatoarele inregistrari:
 
 
 ![2](https://user-images.githubusercontent.com/32772799/45834505-fbb67d00-bd0f-11e8-8493-ffb5ab1168b5.PNG)
