@@ -1,5 +1,7 @@
 # Databases Laboratory Work #2
 
+# Tables creation and modification in SQL Server Management Studio
+
 ## Task 1
 
 
