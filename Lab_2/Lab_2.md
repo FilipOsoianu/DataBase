@@ -8,7 +8,7 @@ Care din numerele prezentate mai jos pot fi introduse intr-un camp de tipul DECI
 a)16.2 b)116.2 c)16.21 d)1116.2 e)1116.21
 
 ## Solution 
-b) 116.2.
+d) 1116.2.
 
 
 ## Task 2
