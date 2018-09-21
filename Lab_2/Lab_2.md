@@ -1,6 +1,6 @@
 # Databases Laboratory Work #2
 
-# Tables creation and modification in SQL Server Management Studio
+# Tables creation and modification in SQL Server Management Studio 2017
 
 ## Task 1
 
