@@ -4,5 +4,4 @@ TASK 1
 
 TASK 3
 Gasiti denumirile disciplinelor si media notelor pe disciplina. Afisati numai disciplinele cu medii mai mari de 7.0.
-![image](https://user-images.githubusercontent.com/32772799/47269432-28a3bd00-d566-11e8-8dc1-4b8078643022.png)
-
+![image](https://user-images.githubusercontent.com/32772799/47269459-74eefd00-d566-11e8-9edd-3e5cdfc41152.png)
