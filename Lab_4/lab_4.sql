@@ -20,3 +20,16 @@ ON studenti.Id_Student = studenti_reusita.Id_Student
 JOIN discipline
 ON discipline.Id_Disciplina = studenti_reusita.Id_Disciplina
 WHERE studenti.Id_Student = 100
+
+
+
+USE Universitatea
+
+Select DISTINCT Count(Nume_Student) as Nume_Stud, Count(Prenume_Student) as Prenume_Student, Nume_Student, Prenume_Student 
+FROM studenti 
+INNER JOIN studenti_reusita  ON studenti.Id_Student = studenti_reusita.Id_Student INNER JOIN 
+discipline ON discipline.Id_Disciplina = studenti_reusita.Id_Disciplina
+WHERE Tip_Evaluare = 'Reusita Curenta' AND Nota < 5
+GROUP BY Nume_Student, Prenume_Student 
+HAVING Count(Nume_Student) = 4
+
