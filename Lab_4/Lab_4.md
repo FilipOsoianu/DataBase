@@ -4,6 +4,7 @@
 
 ## TASK 2
 ### Gasiti numele si prenumele studentilor, care nu au luat nota de promovare la reusita curenta la nicio disciplina.
+![image](https://user-images.githubusercontent.com/32772799/47279300-a99b9c80-d5d8-11e8-8085-cfcd8b4fa6fc.png)
 
 ## TASK 3
 ### Gasiti denumirile disciplinelor si media notelor pe disciplina. Afisati numai disciplinele cu medii mai mari de 7.0.
