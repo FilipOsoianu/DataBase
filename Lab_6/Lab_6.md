@@ -40,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/32772799/48663171-d090a580-ea94-11e8-8b1f-38d6847ee0a7.png)
 
 
-## Tasl_7
+## Task_7
 
 ### Sa se scrie expresiile T-SQL necesare pentru a popula tabelul orarul pentru grupa INF171 , ziua de luni. Datele necesare pentru inserare trebuie sa fie colectate cu ajutorul instructiunii/instructiunilor SELECT si introduse in tabelul-destinatie, stiind ca: 
 #### lectie #1 (Ora ='08:00', Disciplina = 'Structuri de date si algoritmi', Profesor ='Bivol Ion')
