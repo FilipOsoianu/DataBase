@@ -32,4 +32,14 @@
 ## Task_7
 ### Modificati 2-3 interogari asupra bazei de date universitatea prezentate in capitolul 4 astfel ca numele tabelelor accesate sa fie descrise in mod explicit, ținînd cont de faptul ca tabelele au fost mutate in scheme noi. ex.10 Gasiti studentii (numele, prenumele), care au obtinut la disciplina Baze de date (examen), în anul 2018, vreo nota mai mica de 8 si mai mare ca 4.
 
+![image](https://user-images.githubusercontent.com/32772799/48834316-30819780-ed86-11e8-9135-a44d49b2cdd4.png)
+
+![image](https://user-images.githubusercontent.com/32772799/48834751-375cda00-ed87-11e8-8d41-6a1c324b64f6.png)
+
+## Task_8
+### Creați sinonimele respective pentru a simplifica interogările construite în exercițiul precedent și reformulați interogările, folosind sinonimele create.
+
+![image](https://user-images.githubusercontent.com/32772799/48835174-3d9f8600-ed88-11e8-97ce-47e32f4b2f59.png)
+![image](https://user-images.githubusercontent.com/32772799/48835286-793a5000-ed88-11e8-9d28-752c49ea41a3.png)
+
 
